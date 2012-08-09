@@ -1,0 +1,3 @@
+PCB
+	- USB connector footprint is missing two holes
+	- LED, C2 and ISP silkscreen missing orientation marker
