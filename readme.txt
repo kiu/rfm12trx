@@ -1,4 +1,4 @@
-rfm12trx - A simple RFM12 434Mhz transceiver
+rfm12trx - A simple RFM12 433Mhz transceiver
 http://schoar.de/tinkering/rfm12trx
 
 1. Flash the RT232RL through USB
